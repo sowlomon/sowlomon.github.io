@@ -1,0 +1,24 @@
+.aside .logo a::after{
+  border-bottom: 7px solid #ffb400;
+  border-right: 7px solid #ffb400;
+}
+
+.aside .logo a::before{
+  border-top: 7px solid #ffb400;
+  border-left: 7px solid #ffb400;
+}
+.aside .nav li a:hover,body.dark .aside .nav li a:hover,body.dark .aside .nav li a.active,.contact .contact-info-item .icon .fa ,.skill .skill-item .skill-item-inner .icon .fab,.project .project-item-inner .project-info .project-tag a,.skill .skill-item .skill-item-inner .icon .fa,
+.aside .nav li a.active,.about .about-content .about-text h3 span{
+  color:#ffb400; 
+}
+
+.aside .nav-toggler span ,.project .project-item-inner .project-img .project-link,.aside .nav-toggler span::before ,.btn,
+.skill .skill-item .skill-item-inner:hover .icon, 
+.aside .nav-toggler span::after,.home-sec .intro .social-link a{
+  background-color:#ffb400; 
+}
+.section-title h2::after,.section-title h2::before{
+  background-color: #ffb400;
+  border-bottom: #ffb400;
+
+}
