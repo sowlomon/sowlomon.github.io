@@ -593,7 +593,7 @@ input,textarea,select{
   display:block;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
-  filter: blur(0.5px);
+  filter: blur(px);
   
 
 }
