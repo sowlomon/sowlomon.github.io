@@ -1,5 +1,4 @@
 
-
 window.addEventListener("load", function(){
   document.querySelector(".preloader").classList.add("opacity-0");
 
@@ -9,13 +8,11 @@ window.addEventListener("load", function(){
 })
 
 
-
 const nav = document.querySelector(".nav"),
 navList= nav.querySelectorAll("li"),
 totalNavList = navList.length;
 allSection = document.querySelectorAll(".section");
 totalSection = allSection.length;
-
 
 
 for(i=0; i < totalNavList; i++){

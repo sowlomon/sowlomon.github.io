@@ -18,6 +18,7 @@ body.dark .project .project-item-inner .project-info,
 body.dark .skill-item .skill-item-inner,
 body.dark section{
   background-color: #151515;
+  /* background-color: #151515; */
 }
 body.dark .aside{
   background-color: #222222;
